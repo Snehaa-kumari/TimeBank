@@ -10,14 +10,6 @@ node_modules/
 backend/.env
 
 # ===============================
-# SSL / Certificates (SECRET)
-# ===============================
-backend/certs/
-*.pem
-*.crt
-*.key
-
-# ===============================
 # File uploads (multer)
 # ===============================
 backend/uploads/
